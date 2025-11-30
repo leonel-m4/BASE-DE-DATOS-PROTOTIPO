@@ -4,42 +4,42 @@ var productos = [
     {
         nombre: "Polo Neon Wave",
         precio: 15,
-        img: "/img/polos/polo6.jpeg"
+        img: "img/polos/polo6.jpeg"
     },
     {
         nombre: "Pantalón Chino Tapered Fit",
         precio: 135,
-        img: "/img/pantalones/pant7.jpeg"
+        img: "img/pantalones/pant7.jpeg"
     },
     {
         nombre: "Polo Oversize Blanco",
         precio: 90,
-        img: "/img/polos/polo1.jpeg"
+        img: "img/polos/polo1.jpeg"
     },
     {
         nombre: "Pantalón Mom Jeans",
         precio: 120,
-        img: "/img/pantalones/pant1.jpeg"
+        img: "img/pantalones/pant1.jpeg"
     },
      {
         nombre: "Polo Urban Black",
         precio: 45,
-        img: "/img/polos/polo2.jpeg"
+        img: "img/polos/polo2.jpeg"
     },
     {
         nombre: "Pantalón Palazzo",
         precio: 70,
-        img: "/img/pantalones/pant2.jpeg"
+        img: "img/pantalones/pant2.jpeg"
     },
      {
         nombre: "Pantalón Flare",
         precio: 65,
-        img: "/img/pantalones/pant6.jpeg"
+        img: "img/pantalones/pant6.jpeg"
     },
     {
         nombre: "Pantalón Cargo",
         precio: 110,
-        img: "/img/pantalones/pant4.jpeg"
+        img: "img/pantalones/pant4.jpeg"
     }
 ];
 
