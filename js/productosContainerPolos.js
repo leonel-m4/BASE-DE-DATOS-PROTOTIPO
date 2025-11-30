@@ -4,42 +4,42 @@ var productos = [
     {
         nombre: "Polo Oversize Blanco",
         precio: 90,
-        img: "/img/polos/polo1.jpeg"
+        img: "img/polos/polo1.jpeg"
     },
     {
         nombre: "Polo Urban Black",
         precio: 45,
-        img: "/img/polos/polo2.jpeg"
+        img: "img/polos/polo2.jpeg"
     },
     {
         nombre: "Polo Street Plateado",
         precio: 60,
-        img: "/img/polos/polo3.jpeg"
+        img: "img/polos/polo3.jpeg"
     },
     {
         nombre: "Polo Negro Classic",
         precio: 85,
-        img: "/img/polos/polo4.jpeg"
+        img: "img/polos/polo4.jpeg"
     },
     {
         nombre: "Polo Minimalista Arena",
         precio: 30,
-        img: "/img/polos/polo5.jpeg"
+        img: "img/polos/polo5.jpeg"
     },
     {
         nombre: "Polo Neon Wave",
         precio: 15,
-        img: "/img/polos/polo6.jpeg"
+        img: "img/polos/polo6.jpeg"
     },
     {
         nombre: "Polo Skull Edition",
         precio: 95,
-        img: "/img/polos/polo7.jpeg"
+        img: "img/polos/polo7.jpeg"
     },
     {
         nombre: "Polo Gold Style",
         precio: 70,
-        img: "/img/polos/polo8.jpeg"
+        img: "img/polos/polo8.jpeg"
     }
 ];
 
