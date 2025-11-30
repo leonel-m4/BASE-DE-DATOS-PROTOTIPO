@@ -49,7 +49,7 @@ contenedor.innerHTML = "";
 productos.forEach((p, i) => {
     contenedor.innerHTML += `
         <div class="row">
-            <a href="productoAccsesorios.html?id=${i}">
+            <a href="products/productoAccsesorios.html?id=${i}">
                 <img src="${p.img}" alt="">
             </a>
             <div class="product_text">
