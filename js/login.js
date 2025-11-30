@@ -1,17 +1,3 @@
-document.addEventListener("DOMContentLoaded", () => {
-
-    const header = document.getElementById("header");
-    header.innerHTML = `
-        <nav class="nav">
-            <a href="/" class="nav-logo">Mi tienda</a>
-            <ul class="nav-links">
-                <li><a href="/">Inicio</a></li>
-                <li><a href="/productos.html">Productos</a></li>
-                <li><a href="/login.html" id="login-link">Login</a></li>
-            </ul>
-        </nav>
-    `;
-
     const loginLink = document.getElementById("login-link");
 
     const tabs = document.querySelectorAll(".login-tab");
